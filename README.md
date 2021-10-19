@@ -13,7 +13,7 @@ Currently, this plugin can gets:
 ## Setup
 
 1. First of all you need to install and configure the [Android Build Template](https://docs.godotengine.org/en/stable/getting_started/workflow/export/android_custom_build.html)
-2. Then you go to the [releases](), choose one and download
+2. Then you go to the [releases](https://github.com/AilerNX/godot-google/releases), choose one and download
 3. Extract the content of the ```plugin``` folder to ```res://android/plugins``` on your project directory.
 4. Get the ```autoload/GodotGoogle.gd``` file to your project and add it as an Autoload or make your own script to use the Plugin.
     - If you want to make your own script you can get the Plugin like this ```var GooglePlugin = Engine.get_singleton("GodotGoogle")```
